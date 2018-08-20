@@ -1,0 +1,28 @@
+/* deixando o fundo ridículo */
+body {
+    color: #333333;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+p {
+  text-align: justify;
+  font-family: monospace;
+}
+
+h1 {
+    background-image: url(img/sobre-background.jpg);
+}
+
+h2 {
+    border-bottom: 2px solid #333333;
+}
+
+figure {
+    background-color: #F2EDED;
+    border: 1px groove #ccc;
+    text-align: center;
+}
+
+figcaption {
+    font-style: italic;
+}
